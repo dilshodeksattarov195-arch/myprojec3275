@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderdalidate",
+        "uuid": 10349000,
+        "checksum": "ucob3q"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
